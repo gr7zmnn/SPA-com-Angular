@@ -1,0 +1,25 @@
+{
+  "funcionarios": [
+    {
+      "id": 1,
+      "CPF": "08405906984",
+      "name": "Maike",
+      "departamento": "Angular developer",
+      "salario": "12000"
+    },
+    {
+      "id": 2,
+      "CPF": "03785444448",
+      "name": "Joao",
+      "departamento": "Financas",
+      "salario": "5000"
+    },
+    {
+      "id": 3,
+      "CPF": "25896336977",
+      "name": "Karla",
+      "departamento": "Pesquisa",
+      "salario": "7000"
+    }
+  ]
+}

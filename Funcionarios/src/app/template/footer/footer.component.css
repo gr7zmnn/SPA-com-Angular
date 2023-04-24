@@ -1,0 +1,17 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    background: #0145ff8c;
+
+    display: flex;
+    justify-content: center;
+}
+
+.footer > span {
+    align-items: center;
+    font-size: 15px;
+    font-weight: 15px;
+    font-style:normal;
+    color: rgb(0, 0, 0);
+
+}
